@@ -1,1 +1,1 @@
-# nomadcoders-community-discord-bot
+# Unofficial Nomadcoders Community Discord Bot
