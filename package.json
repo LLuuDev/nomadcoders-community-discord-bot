@@ -10,12 +10,14 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@types/open-graph": "0.2.2",
     "nodemon": "2.0.19",
     "typescript": "4.7.4"
   },
   "dependencies": {
     "axios": "0.27.2",
     "discord.js": "13.8.1",
-    "dotenv": "16.0.1"
+    "dotenv": "16.0.1",
+    "open-graph": "0.2.6"
   }
 }
